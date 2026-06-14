@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Code Runner temp file
+tempCodeRunnerFile.py
+
+# Virtual environments
+venv/
+.env/
